@@ -547,7 +547,7 @@
         exclusive="false"
         minSdkVersion="31"
         static="true"
-        systemOnly="true"
+        systemOnly="false"
         visible="false">
         <permissions>
             <permission-set name="microphone" />
